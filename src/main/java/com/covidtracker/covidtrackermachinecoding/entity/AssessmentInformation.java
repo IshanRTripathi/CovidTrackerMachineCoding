@@ -7,4 +7,5 @@ public class AssessmentInformation {
     Boolean isVaccinated;
     Boolean contactedACovidPatient;
     String zoneName;
+    
 }
